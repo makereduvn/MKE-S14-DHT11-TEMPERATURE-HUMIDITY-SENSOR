@@ -1,8 +1,10 @@
 # Cảm biến độ ẩm nhiệt độ MKE-S14 DHT11 Temperature Humidity Sensor
 
-MKE-S14 DHT11 Temperature Humidity Sensor là cảm biến độ ẩm và nhiệt độ không khí sử dụng giao tiếp 1-Wire với chỉ duy nhất 1 dây tín hiệu, Xin lưu ý chỉ sử dụng cảm biến trong môi trường độ ẩm thuần là hơi nước, các môi trường đặc biệt ủ kín như ủ tỏi đen, ủ yếm khí...sẽ sinh ra nấm và vi khuẩn bám lên bề mặt cảm biến làm hư hỏng cảm biến..
+MKE-S14 DHT11 Temperature Humidity Sensor là module cảm biến đo nhiệt độ và độ ẩm không khí sử dụng giao tiếp Digital 1-Wire, chỉ cần một chân tín hiệu để truyền dữ liệu, giúp việc kết nối với vi điều khiển trở nên đơn giản và thuận tiện. Cảm biến tích hợp phần tử đo nhiệt độ và độ ẩm cùng bộ xử lý tín hiệu bên trong, cho phép xuất dữ liệu đã được hiệu chuẩn dưới dạng số, giúp hệ thống đọc và xử lý nhanh chóng với độ ổn định cao.
 
-Sản phẩm phù hợp cho nhiều ứng dụng như đo độ ẩm nhiệt độ không khí, vườn thông minh, thiết bị IoT và các dự án STEM. Mạch được thiết kế tối ưu về độ ổn định tín hiệu và khả năng chống nhiễu, đảm bảo độ tin cậy trong cả môi trường học tập và ứng dụng thực tế.
+**Lưu ý:** Cảm biến chỉ nên sử dụng trong môi trường đo độ ẩm không khí thông thường (hơi nước). Không nên sử dụng trong các môi trường ủ kín hoặc có nhiều vi khuẩn, nấm mốc (như ủ tỏi đen, ủ yếm khí, môi trường hữu cơ đậm đặc), vì các tác nhân này có thể bám lên bề mặt cảm biến và làm giảm độ chính xác hoặc gây hư hỏng cảm biến theo thời gian.
+
+Sản phẩm phù hợp cho nhiều ứng dụng như đo nhiệt độ – độ ẩm môi trường, vườn thông minh, hệ thống giám sát không khí, thiết bị IoT và các dự án STEM. Mạch được thiết kế tối ưu về độ ổn định tín hiệu và khả năng chống nhiễu, đảm bảo hoạt động tin cậy trong cả môi trường học tập và ứng dụng thực tế.
 
 Cảm biến độ ẩm nhiệt độ MKE-S14 DHT11 Temperature Humidity Sensor hỗ trợ điện áp giao tiếp 3.3V và 5VDC, cho phép kết nối trực tiếp và an toàn với các bo mạch điều khiển phổ biến như Arduino, Raspberry Pi, Jetson Nano, Micro:bit và nhiều nền tảng khác. Sản phẩm đi kèm cáp kết nối 4P XH2.54 – Dupont, đảm bảo kết nối chắc chắn, ổn định và thuận tiện trong quá trình lắp đặt và sử dụng.
 
@@ -74,4 +76,5 @@ Nếu bắt đầu tự án mới cần cài đặt Extension **MKE_ONE_MICROBIT
 ## Hình ảnh sản phẩm
 ![MKE-S14 DHT11](/extras/MKE-S14_2.png)
 ![MKE-S14 DHT11](/extras/MKE-S14_3.png)
+
 
