@@ -1,6 +1,6 @@
 # Cảm biến độ ẩm nhiệt độ MKE-S14 DHT11 Temperature Humidity Sensor
 
-MKE-S14 DHT11 Temperature Humidity Sensor là module cảm biến đo nhiệt độ và độ ẩm không khí sử dụng giao tiếp Digital 1-Wire, chỉ cần một chân tín hiệu để truyền dữ liệu, giúp việc kết nối với vi điều khiển trở nên đơn giản và thuận tiện. Cảm biến tích hợp phần tử đo nhiệt độ và độ ẩm cùng bộ xử lý tín hiệu bên trong, cho phép xuất dữ liệu đã được hiệu chuẩn dưới dạng số, giúp hệ thống đọc và xử lý nhanh chóng với độ ổn định cao.
+MKE-S14 DHT11 Temperature Humidity Sensor là cảm biến đo nhiệt độ và độ ẩm không khí sử dụng giao tiếp Digital 1-Wire, chỉ cần một chân tín hiệu để truyền dữ liệu, giúp việc kết nối với vi điều khiển trở nên đơn giản và thuận tiện. Cảm biến tích hợp phần tử đo nhiệt độ và độ ẩm cùng bộ xử lý tín hiệu bên trong, cho phép xuất dữ liệu đã được hiệu chuẩn dưới dạng số, giúp hệ thống đọc và xử lý nhanh chóng với độ ổn định cao.
 
 **Lưu ý:** Cảm biến chỉ nên sử dụng trong môi trường đo độ ẩm không khí thông thường (hơi nước). Không nên sử dụng trong các môi trường ủ kín hoặc có nhiều vi khuẩn, nấm mốc (như ủ tỏi đen, ủ yếm khí, môi trường hữu cơ đậm đặc), vì các tác nhân này có thể bám lên bề mặt cảm biến và làm giảm độ chính xác hoặc gây hư hỏng cảm biến theo thời gian.
 
@@ -76,5 +76,6 @@ Nếu bắt đầu tự án mới cần cài đặt Extension **MKE_ONE_MICROBIT
 ## Hình ảnh sản phẩm
 ![MKE-S14 DHT11](/extras/MKE-S14_2.png)
 ![MKE-S14 DHT11](/extras/MKE-S14_3.png)
+
 
 
