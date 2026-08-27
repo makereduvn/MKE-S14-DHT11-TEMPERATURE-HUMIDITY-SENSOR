@@ -30,31 +30,19 @@ Sản phẩm phù hợp cho nhiều ứng dụng như **đo nhiệt độ – đ
 - Đi kèm cáp kết nối: 3P XH2.54–Dupont
 
 ## Các chân tín hiệu
-<table><thead>
-  <tr>
-    <th>MKE-S14</th>
-    <th>Ghi chú</th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td>-</td>
-    <td>Chân cấp nguồn âm 0VDC</td>
-  </tr>
-  <tr>
-    <td>+</td>
-    <td>Chân cấp nguồn dương 5VDC</td>
-  </tr>
-  <tr>
-    <td>S</td>
-    <td>Chân tín hiệu Digital</td>
-  </tr>
-</tbody>
-</table>
+
+| MKE-S14 | Ghi chú                   |
+| ------- | ------------------------- |
+| `-`     | Chân cấp nguồn âm 0VDC    |
+| `+`     | Chân cấp nguồn dương 5VDC |
+| `S`   | Chân tín hiệu Digital 1-Wire |
 
 ## Hướng dẫn sử dụng
+
 ### Hướng dẫn kết nối
 - Cấp nguồn 5VDC cho mạch qua hai chân - và +.
 - Kết nối chân S (SIGNAL) của cảm biến với chân điều khiển được khai báo trong chương trình.
+
 ### Hướng dẫn sử dụng với Arduino Uno / Vietduino Uno / ESP32
 - Trong **Tools / Library Manager**, tìm và cài đặt bộ thư viện tổng hợp **"MKE_ONE" by MakerEdu.vn**
 - Mở chương trình mẫu tại **File / Examples / MKE_ONE / Sensor / MKE_S14_DHT11**
