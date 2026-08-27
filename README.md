@@ -1,12 +1,13 @@
+
 # Cảm biến độ ẩm nhiệt độ MKE-S14 DHT11 Temperature Humidity Sensor
 
-MKE-S14 DHT11 Temperature Humidity Sensor là cảm biến đo nhiệt độ và độ ẩm không khí sử dụng giao tiếp Digital 1-Wire, chỉ cần một chân tín hiệu để truyền dữ liệu, giúp việc kết nối với vi điều khiển trở nên đơn giản và thuận tiện. Cảm biến tích hợp phần tử đo nhiệt độ và độ ẩm cùng bộ xử lý tín hiệu bên trong, cho phép xuất dữ liệu đã được hiệu chuẩn dưới dạng số, giúp hệ thống đọc và xử lý nhanh chóng với độ ổn định cao.
+**MKE-S14 DHT11 Temperature Humidity Sensor** là cảm biến đo **nhiệt độ và độ ẩm không khí** sử dụng giao tiếp **Digital 1-Wire**, chỉ cần một chân tín hiệu để truyền dữ liệu, giúp việc kết nối với vi điều khiển trở nên đơn giản và thuận tiện. Cảm biến tích hợp phần tử đo nhiệt độ, độ ẩm cùng bộ xử lý tín hiệu bên trong, cho phép xuất dữ liệu đã được hiệu chuẩn dưới dạng số, giúp hệ thống đọc và xử lý nhanh chóng với **độ ổn định cao**.
 
-**Lưu ý:** Cảm biến chỉ nên sử dụng trong môi trường đo độ ẩm không khí thông thường (hơi nước). Không nên sử dụng trong các môi trường ủ kín hoặc có nhiều vi khuẩn, nấm mốc (như ủ tỏi đen, ủ yếm khí, môi trường hữu cơ đậm đặc), vì các tác nhân này có thể bám lên bề mặt cảm biến và làm giảm độ chính xác hoặc gây hư hỏng cảm biến theo thời gian.
+Sản phẩm phù hợp cho nhiều ứng dụng như **đo nhiệt độ – độ ẩm môi trường, vườn thông minh, hệ thống giám sát không khí, thiết bị IoT và các dự án STEM**. Mạch được thiết kế tối ưu về **độ ổn định tín hiệu và khả năng chống nhiễu**, đảm bảo hoạt động tin cậy trong cả môi trường học tập và ứng dụng thực tế.
 
-Sản phẩm phù hợp cho nhiều ứng dụng như đo nhiệt độ – độ ẩm môi trường, vườn thông minh, hệ thống giám sát không khí, thiết bị IoT và các dự án STEM. Mạch được thiết kế tối ưu về độ ổn định tín hiệu và khả năng chống nhiễu, đảm bảo hoạt động tin cậy trong cả môi trường học tập và ứng dụng thực tế.
+**Cảm biến độ ẩm nhiệt độ MKE-S14 DHT11 Temperature Humidity Sensor** hỗ trợ điện áp giao tiếp **3.3V và 5VDC**, cho phép kết nối trực tiếp và an toàn với các bo mạch điều khiển phổ biến như **Arduino, Raspberry Pi, Jetson Nano, Micro:bit** và nhiều nền tảng khác. Sản phẩm đi kèm **cáp kết nối 3P XH2.54 – Dupont**, đảm bảo kết nối chắc chắn, ổn định và thuận tiện trong quá trình lắp đặt và sử dụng.
 
-Cảm biến độ ẩm nhiệt độ MKE-S14 DHT11 Temperature Humidity Sensor hỗ trợ điện áp giao tiếp 3.3V và 5VDC, cho phép kết nối trực tiếp và an toàn với các bo mạch điều khiển phổ biến như Arduino, Raspberry Pi, Jetson Nano, Micro:bit và nhiều nền tảng khác. Sản phẩm đi kèm cáp kết nối 3P XH2.54 – Dupont, đảm bảo kết nối chắc chắn, ổn định và thuận tiện trong quá trình lắp đặt và sử dụng.
+> **⚠️ Lưu ý:** Cảm biến chỉ nên được sử dụng để đo **độ ẩm không khí trong môi trường thông thường (hơi nước)**. Không sử dụng cảm biến trong các môi trường **ủ kín, có nhiều vi khuẩn, nấm mốc, hóa chất hoặc tác nhân ăn mòn** như **ủ tỏi đen, ủ yếm khí, môi trường có hơi muối**. Các tác nhân này có thể bám hoặc tác động lên bề mặt cảm biến, làm **giảm độ chính xác của phép đo** hoặc **gây hư hỏng cảm biến theo thời gian**.
 
 ## Thông số kỹ thuật
 - Điện áp cấp nguồn: 5VDC
