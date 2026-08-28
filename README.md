@@ -13,7 +13,7 @@ Sản phẩm phù hợp cho nhiều ứng dụng như **đo nhiệt độ – đ
 - Điện áp cấp nguồn: 5VDC
 - Chuẩn tín hiệu điều khiển: Digital 1-Wire
 - Điện áp giao tiếp: TTL 3.3 / 5VDC
-- Cảm biến sử dụng: DHT11
+- Cảm biến sử dụng: [DHT11 Temperature Humidity Sensor ASAIR](/extras/DHT11%20datasheet.pdf)
 - Dòng sử dụng: 2.5mA max (khi truyền dữ liệu).
 - Khoảng đo độ ẩm: 20 - 90% RH (sai số 5% RH)
 - Khoảng đo nhiệt độ: 0-50°C (sai số 2°C).
