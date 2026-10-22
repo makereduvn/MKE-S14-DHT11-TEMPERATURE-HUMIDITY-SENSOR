@@ -40,7 +40,7 @@ Sản phẩm phù hợp cho nhiều ứng dụng như **đo nhiệt độ – đ
 ## Hướng dẫn sử dụng
 
 ### Hướng dẫn kết nối
-- Cấp nguồn 5VDC cho mạch qua hai chân - và +.
+- Cấp nguồn 5VDC cho mạch qua hai chân `-` và `+`.
 - Kết nối chân `S` (SIGNAL) của cảm biến với chân điều khiển được khai báo trong chương trình.
 
 ### Hướng dẫn sử dụng với Arduino / ESP32
