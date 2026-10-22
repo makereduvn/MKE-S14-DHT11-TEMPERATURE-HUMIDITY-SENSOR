@@ -1,7 +1,6 @@
 #include "MKE_DHT.h"
 // Đặt tên cho chân kết nối cảm biến
-#define DHTPIN 23     // IO23-D11 on Vietduino ESP32 (D11 on MakerEdu Shield)
-
+#define DHTPIN 23     // IO23
 MKE_DHT dht(DHTPIN, DHT11);
 
 // Tạo biến lưu giá trị cảm biến
