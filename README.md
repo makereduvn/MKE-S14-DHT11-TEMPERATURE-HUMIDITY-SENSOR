@@ -46,7 +46,7 @@ Sản phẩm phù hợp cho nhiều ứng dụng như **đo nhiệt độ – đ
 ### Hướng dẫn sử dụng với Arduino / ESP32
 - Trong Github của bộ thư viện, chọn **<> Code / Download ZIP** để tải về bộ thư viện.
 - Mở chương trình Arduino, chọn **Sketch / Include Library / Add .ZIP Library** để cài đặt bộ thư viện.
-- Mở chương trình mẫu tại **File / Examples / MKE_DHT TempHumi**
+- Mở chương trình mẫu tại **File / Examples / MKE_S14_DHT11**
 - Cấu hình board mạch tương ứng là **Arduino Uno / ESP32**, chọn đúng cổng **COM Port** của mạch và nhấn **Upload** để nạp chương trình.
 - Cấp nguồn 5VDC cho mạch, kết nối chân `S` (SIGNAL) của cảm biến với chân điều khiển được khai báo trong chương trình.
 - Xem kết quả mạch hoạt động theo chương trình đã nạp.
@@ -96,7 +96,7 @@ void loop()
 ```ino
 #include "MKE_DHT.h"
 // Đặt tên cho chân kết nối cảm biến
-#define DHTPIN 23     // IO23-D11 on Vietduino ESP32 (D11 on MakerEdu Shield)
+#define DHTPIN 23     // IO23
 
 MKE_DHT dht(DHTPIN, DHT11);
 
